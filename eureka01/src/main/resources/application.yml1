@@ -3,7 +3,7 @@ spring:
     name: spring-cloud-eureka
   profiles: peer1
 server:
-  port: 800011
+  port: 8000112
 eureka:
   instance:
     hostname: peer1
